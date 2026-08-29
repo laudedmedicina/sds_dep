@@ -50,7 +50,7 @@ SDS_BASE=/path/to/depression-awareness-syria Rscript R/analysis_SDS.R
 ```
 
 ## Data availability
-
+**The data is available upon request**
 **The individual-level data are not included in this repository.** The survey
 collected age, sex, faculty, socioeconomic status, chronic illness, prior
 psychiatric diagnoses and item-level depression-scale responses; publishing that
@@ -58,9 +58,6 @@ at the row level is not covered by the consent participants gave. `data/` ships
 empty apart from its own README, and `.gitignore` excludes `*.xlsx` so a local
 copy is never committed by accident.
 
-Everything in `outputs/` is aggregate and carries no individual-level
-information, so the full set of published tables and figures is here and can be
-checked against the manuscript without the source data.
 
 Requests for the de-identified dataset go to the corresponding author, subject
 to the approval of the Damascus University IRB (No. MD-281123-160).
