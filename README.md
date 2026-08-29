@@ -51,6 +51,8 @@ SDS_BASE=/path/to/depression-awareness-syria Rscript R/analysis_SDS.R
 
 ## Data availability
 **The data is available upon request**
+
+
 **The individual-level data are not included in this repository.** The survey
 collected age, sex, faculty, socioeconomic status, chronic illness, prior
 psychiatric diagnoses and item-level depression-scale responses; publishing that
