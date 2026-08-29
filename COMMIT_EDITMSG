@@ -1,0 +1,10 @@
+Zung SDS depression-awareness analysis pipeline
+
+Single R script that takes the raw survey export and writes every published
+table and figure: cleaning and scoring, reliability and item analysis,
+exploratory factor analysis, non-parametric group comparisons, multivariable
+linear and logistic models with full assumption diagnostics, and the awareness
+composite.
+
+Individual-level data are excluded from the repository (see data/README.md);
+outputs/ carries the 48 aggregate tables and 19 figures.

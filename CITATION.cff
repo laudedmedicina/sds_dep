@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite the published study."
+title: "Depression awareness and self-perception among Syrian university students: analysis pipeline"
+abstract: >-
+  Reproducible R pipeline for a cross-sectional survey of 967 medicine, dentistry
+  and pharmacy students in Syria, measuring depressive symptoms with the Arabic
+  Zung Self-Rating Depression Scale and knowledge of depression with a 17-item
+  awareness score. Generates every published table and figure from the raw survey
+  export.
+type: software
+license: MIT
+# TODO: replace the placeholder below with the study authors, in order.
+authors:
+  - family-names: "[SURNAME]"
+    given-names: "[GIVEN NAME]"
+    affiliation: "Faculty of Medicine, Damascus University, Damascus, Syria"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+keywords:
+  - depression
+  - Zung Self-Rating Depression Scale
+  - mental health literacy
+  - medical students
+  - Syria
+  - reproducible research
+# TODO: add the journal reference once the paper is published.
+# preferred-citation:
+#   type: article
+#   title: "Awareness and self-perception of depression among Syrian university students"
+#   authors:
+#     - family-names: "[SURNAME]"
+#       given-names: "[GIVEN NAME]"
+#   journal: "[JOURNAL]"
+#   year: 2026
+#   doi: "[DOI]"
