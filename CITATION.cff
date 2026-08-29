@@ -9,12 +9,11 @@ abstract: >-
   export.
 type: software
 license: MIT
-# TODO: replace the placeholder below with the study authors, in order.
 authors:
-  - family-names: "[SURNAME]"
-    given-names: "[GIVEN NAME]"
-    affiliation: "Faculty of Medicine, Damascus University, Damascus, Syria"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "[Elsharkawy]"
+    given-names: "[Muhammad M. ]"
+    affiliation: "Faculty of Medicine, Alexandria University, Egypt"
+    # orcid: "https://orcid.org/0009-0008-3804-315X"
 keywords:
   - depression
   - Zung Self-Rating Depression Scale
@@ -22,13 +21,3 @@ keywords:
   - medical students
   - Syria
   - reproducible research
-# TODO: add the journal reference once the paper is published.
-# preferred-citation:
-#   type: article
-#   title: "Awareness and self-perception of depression among Syrian university students"
-#   authors:
-#     - family-names: "[SURNAME]"
-#       given-names: "[GIVEN NAME]"
-#   journal: "[JOURNAL]"
-#   year: 2026
-#   doi: "[DOI]"
