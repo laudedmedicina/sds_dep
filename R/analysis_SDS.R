@@ -1,9 +1,5 @@
 # ==============================================================================
 # Zung SDS & depression awareness - Syrian university students
-# Clean pipeline: raw Excel -> clean workbook -> every published table & figure.
-# Step-by-step rationale for the whole pipeline lives in docs/WORKFLOW.md;
-# variable definitions in docs/CODEBOOK.md.
-# Run: Rscript R/analysis_SDS.R  (from the repository root; R >= 4.3, deterministic)
 # ==============================================================================
 
 # 0. Setup ---------------------------------------------------------------------
